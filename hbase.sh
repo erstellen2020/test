@@ -1,0 +1,1 @@
+wget hbase.tar.gz
